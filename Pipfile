@@ -1,0 +1,36 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+get-chrome-driver = "*"
+selenium = "*"
+python-dateutil = "*"
+requests = "*"
+selenium-stealth = "*"
+camelot-py = "*"
+PyPDF2 = "<3.0"
+coloredlogs = "*"
+opencv-python = "*"
+ghostscript = "*"
+Jinja2 = "*"
+Pillow = "*"
+pandas = "*"
+numpy = "*"
+openpyxl = "*"
+xlsxwriter = "*"
+pdf2image = "*"
+pytesseract = "*"
+img2table = "*"
+auto-py-to-exe = "*"
+pyinstaller = "*"
+pywin32 = "*"
+pypyodbc = "*"
+SQLAlchemy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
+python_full_version = "3.11.1"
